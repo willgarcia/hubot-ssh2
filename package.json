@@ -1,0 +1,28 @@
+{
+  "name": "hubot-ssh2",
+  "version": "0.1.0",
+  "author": "willgarcia <garcia.rodriguez.william@gmail.com>",
+  "description": "Perform commands over SSH.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/willgarcia/hubot-ssh2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willgarcia/hubot-ssh2/issues"
+  },
+  "homepage": "https://github.com/willgarcia/hubot-ssh2",
+  "licence": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "ssh"
+  ],
+  "dependencies": {    
+    "simple-ssh": "^0.8.6"
+
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.x"
+  }
+}
