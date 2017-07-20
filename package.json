@@ -17,9 +17,8 @@
     "hubot-scripts",
     "ssh"
   ],
-  "dependencies": {    
+  "dependencies": {
     "simple-ssh": "^0.8.6"
-
   },
   "devDependencies": {},
   "engines": {
